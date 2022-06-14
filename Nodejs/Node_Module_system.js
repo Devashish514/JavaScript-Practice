@@ -10,7 +10,7 @@ var as = require("fs")
 
 // resolving module location...
 
-console.log(require.resolve("../buffer.js"))   // output == c:\Users\Gopal\Desktop\JS\JS practice\buffer.js
+console.log(require.resolve("../buffer.js"))  
 console.log(require.resolve("http"))   
 
 
